@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data files (keep README documenting download sources)
+!data/raw/README.md
+.DS_Store

@@ -1,0 +1,111 @@
+name,varlab
+id,id
+Region_Code,Region_Code
+Region,Region
+code,code
+Area,Area
+Electorate,Electorate
+Pct_Turnout,Pct_Turnout
+Votes_Cast,Votes_Cast
+Valid_Votes,Valid_Votes
+Remain,Remain
+Leave,Leave
+Pct_Remain,Pct_Remain
+Pct_Leave,% Leave in 2016 referendum
+Pct_Rejected,Pct_Rejected
+EU75Leaveshare,1975 referendum Leave share
+pensionergrowth20012011,Population 60 older growth (2001-2011)
+ResidentAge30to44share,Population 30 - 44 yrs (2001)
+ResidentAge45to59share,Population 45 - 59 yrs (2001)
+ResidentAge60plusshare,Population 60 older (2001)
+median_hourly_pay2005,Median hourly pay (2005)
+median_hourly_pay_growth,Median hourly pay change (2005-2015)
+mean_hourly_pay2005,Mean hourly pay (2005)
+mean_hourly_pay_growth,Mean hourly pay growth (2005-2015)
+iqrpay2005,Interquartile pay range (2005)
+EU_2001Migrantshare,EU migrant resident share (2001)
+NONEU_2001Migrantshare,Non-EU migrant resident share (2001)
+EU_Migrantgrowth,EU migrant resident growth (2001-2011)
+NONEU_Migrantgrowth,Non-EU migrant resident growth (2001-2011)
+unqualifiedsharechange,Change in low skilled labour force share (2001-2011)
+self_employment_rate_aps,Self-employment rate (2015)
+umemployment_rate_aps,Unemployment rate (2015)
+economic_activity_rate_aps2015,Participation rate (2015)
+MEP_Turnout,EP election turnout (2014)
+MEP_ConPct,EP election Conservative Party vote share (2014)
+MEP_LabPct,EP election Labour Party vote share (2014)
+MEP_LDPct,EP election Lib-Dem vote share (2014)
+MEP_UKIPPct,EP election UKIP vote share (2014)
+MEP_GreenPct,EP election Green Party vote share (2014)
+MEP_BNPPct,EP election British National Party vote share (2014)
+Total_EconomyEU_dependence,Total economy EU dependence (2010)
+TotalImpactFLWAAYR,Total fiscal cuts (2010-2015)
+TREATED_WITHIN_62_DAYS,Share of suspected cancer patient treated within 62 Days (2015)
+PRCP_AMT22,PRCP_AMT22
+PRCP_AMT23,PRCP_AMT23
+life_sat_mean,Mean life satisfaction APS well-being data (2015)
+life_sat_cv,CV life satisfaction APS well-being data (2015)
+BREXITINDEXNARROW,Daily Mail/Sun/Express penetration
+noqual_2001_sh,Share of res. pop. no qualifications (2001)
+quall1_2001_sh,Share of res. pop. qualification 1  (2001)
+quall2_2001_sh,Share of res. pop. qualification 2  (2001)
+quall3_2001_sh,Share of res. pop. qualification 3  (2001)
+quall4plus_2001_sh,Share of res. pop. qualification 4+ (2001)
+noqual_sh_growth,Share of res. pop. no qualifications growth (2001-2011)
+quall1_sh_growth,Share of res. pop. qualification 1  growth (2001-2011)
+quall2_sh_growth,Share of res. pop. qualification 2  growth (2001-2011)
+quall3_sh_growth,Share of res. pop. qualification 3  growth (2001-2011)
+quall4plus_sh_growth,Share of res. pop. qualification 4+ growth (2001-2011)
+ind2001_Agriculture_sh,Agriculture employment share (2001)
+ind2001_Mining_sh,Mining employment share (2001)
+ind2001_Manufacturing_sh,Manufacturing employment share (2001)
+ind2001_Construction_sh,Construction employment share (2001)
+ind2001_Retail_sh,Retail employment share (2001)
+ind2001_HotelRestaurant_sh,Hotel/restaurant employment share (2001)
+ind2001_Transport_sh,Transport employment share (2001)
+ind2001_Finance_sh,Finance employment share (2001)
+AgricultureShareGrowth,Agriculture employment share change (2001-2011)
+MiningShareGrowth,Mining employment share change (2001-2011)
+ManufacturingShareGrowth,Manufacturing employment share change (2001-2011)
+ConstructionShareGrowth,Construction employment share change (2001-2011)
+RetailShareGrowth,Retail employment share change (2001-2011)
+HotelRestaurantShareGrowth,Hotel/restaurant employment share change (2001-2011)
+TransportShareGrowth,Transport employment share change (2001-2011)
+FinanceShareGrowth,Finance employment share change (2001-2011)
+ResidentUnder30share,Population under 30 yrs (2001)
+eufundspercapitapayment13,EU Structural Funds per capita (2013)
+PrivateRentedshare2001,Private rented share (2001)
+Ownedshare2001,Owned (outright + mortgage) share (2001)
+CouncilRented2001,Council rented share (2001)
+CouncilRentedGrowth,Council rented share growth (2001-2011)
+PrivateRentedGrowth,Privated rented share growth (2001-2011)
+OwnedshareGrowth,Owned (outright + mortgage) share growth (2001-2011)
+PublicEmployment2014,Public employment share (2014)
+PublicEmployment2009,Public employment share (2009)
+PublicEmploymentGrowth,Public employment share growth (2009-2014)
+iqrpayGrowth,Interquartile pay range growth (2005-2015)
+MigrantEUAccessionGrowth,EU accession migrant growth (2001-2011)
+MigrantOldEUMemberGrowth,EU 15 migrant growth (2001-2011)
+MigrantElsewhereGrowth,Migrants from elsewhere growth (2001-2011)
+InitialEUAccession,Initial EU accession migrant resident share (2001)
+InitialOldEUMember,Initial EU 15 migrant resident share (2001)
+InitialElsewhere,Initial migrants from elsewhere resident share (2001)
+CommutingToLondon,Share of residents commuting to London (2011)
+rr_1,Region==East
+rr_2,Region==East Midlands
+rr_3,Region==London
+rr_4,Region==North East
+rr_5,Region==North West
+rr_6,Region==Northern Ireland
+rr_7,Region==Scotland
+rr_8,Region==South East
+rr_9,Region==South West
+rr_10,Region==Wales
+rr_11,Region==West Midlands
+rr_12,Region==Yorkshire and The Humber
+cc_1,country==E1
+cc_2,country==N9
+cc_3,country==S9
+cc_4,country==W9
+anyrain23,
+anyrain22,
